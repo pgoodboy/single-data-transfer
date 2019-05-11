@@ -6,3 +6,5 @@ Clone to Raspberrypi and run command :
 as -g -o singleDataTransfer.o singleDataTransfer.s
 
 gcc -o singleDataTransfer singleDataTransfer.o
+
+./singleDataTransfer
